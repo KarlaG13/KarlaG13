@@ -87,11 +87,10 @@
 </span>
 <span style="margin-right: 10px;">
 	<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=blue" height="25"> 
-
 </span>
 
 <span style="margin-right: 10px;">
-	
+	<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="25">
 </span>
 
 <!--/skills --->
