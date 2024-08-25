@@ -30,11 +30,9 @@
 
 **About Me:**
 
-- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
-- I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: __z.ayers@icloud.com__
+- Seeking collaboration on cybersecurity projects and skill development.
+- Proficient in Python, applying it to cybersecurity.
+- Open to discussing and addressing cybersecurity topics.
 
 
 
