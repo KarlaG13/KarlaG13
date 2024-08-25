@@ -27,7 +27,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
-<br><br>
 
 **About Me:**
 
