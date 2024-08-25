@@ -83,7 +83,15 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </span>
 <span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="25"> 
+</span>
+<span style="margin-right: 10px;">
+	<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=blue" height="25"> 
+
+</span>
+
+<span style="margin-right: 10px;">
+	
 </span>
 
 <!--/skills --->
