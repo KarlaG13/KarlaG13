@@ -1,8 +1,10 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Supravat Mondal</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<h1 align="center">Hi 👋, I'm Karla</h1>
+<h3 align="center">A passionate programmer and junior cybersecurity analyst.
+
+ </h3>
 
 
 <p align="center"> 
@@ -30,7 +32,6 @@
 **About Me:**
 
 - I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
-- I’m currently learning __Ruby__, __PHP__, & __GoLang__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer.
